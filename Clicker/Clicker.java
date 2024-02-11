@@ -18,7 +18,7 @@ public class Clicker extends JFrame{
 
         this.setSize(800,600);
         this.setVisible(true);
-        this.setTitle("Top Text");
+        this.setTitle("Cliker Game");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.getContentPane().setBackground(new Color(128,50,128));
 
