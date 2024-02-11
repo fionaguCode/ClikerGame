@@ -5,14 +5,14 @@ Clicker game is a project that involves making a fun little clicker game that yo
 
 ## Rules
 
-```
-The **Click me** button serves as the button our player will clock on
 
-**CLICKS** indicates the amount of clicking
+The `Click me` button serves as the button our player will clock on
 
-**Increment** how much value add on for each click
+`Clicks` indicates the amount of clicking
 
-```
+`Increment` how much value add on for each click
+
+
 
 ## User Interface
 
